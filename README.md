@@ -48,3 +48,7 @@ Seaborn
 # Exploratory Data Analysis
 Firstly, age dynamic of the customers has been studied concluding to the fact that company caters to mostly middle aged(40 - 50) people. Then, the response rate of campaigns launched by the company was calculated indicating that response has only got better with time. Then comes the education level of our customers stating that majority of our customers are university graduates.Now comes the most important part i.e. Income of our customers. Higher the income,more expensive ingredients are bought such as meat,fish and wine. Higher earning section of the customers are also attracted to the catalog provided by company. Items like fish,fruits,meat, wine are often bought together and often directly from the stores.
 Parents with a kid at home prefer buying through website or their tech savvy teenagers buy for them.
+
+# Link to Medium Article
+A thorough analysis can be found on:
+https://goyalvidushi2.medium.com/customer-personality-analysis-aab923c55005
